@@ -9,9 +9,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 3. [Merge Sort](https://github.com/SriramKeerthi/learningAlgos/blob/master/mergeSort.py)
 
-4. Suffix Array (Work in progress - 2016/03/23)
+4. [Suffix Array](https://github.com/SriramKeerthi/learningAlgos/blob/master/suffixArray.py)
 
-Knuth-Morris-Pratt Algorithm (KMP)
+5. Knuth-Morris-Pratt Algorithm (KMP) (Work in progress - 2016/03/23)
 
 Rabin-Karp Algorithm
 
