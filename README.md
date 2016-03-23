@@ -3,13 +3,13 @@
 
 I have no recollection of how, but I ended up with a couple of pages of algorithms that programmers should know. I kept procrastinating about reading them up, but finally decided that I'll start implementing them myself. So here goes nothing, I hope to learn at least one or more a day (depending on whether I've done it before or not) over the next couple of months.  
 
-[Binary Search](https://github.com/SriramKeerthi/learningAlgos/blob/master/binarySearch.py)
+1. [Binary Search](https://github.com/SriramKeerthi/learningAlgos/blob/master/binarySearch.py)
 
-[Quicksort](https://github.com/SriramKeerthi/learningAlgos/blob/master/quickSort.py)
+2. [Quicksort](https://github.com/SriramKeerthi/learningAlgos/blob/master/quickSort.py)
 
-[Merge Sort](https://github.com/SriramKeerthi/learningAlgos/blob/master/mergeSort.py)
+3. [Merge Sort](https://github.com/SriramKeerthi/learningAlgos/blob/master/mergeSort.py)
 
-Suffix Array
+4. Suffix Array (Work in progress - 2016/03/23)
 
 Knuth-Morris-Pratt Algorithm (KMP)
 
