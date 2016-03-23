@@ -1,6 +1,8 @@
 # THINGS TO LEARN!
 #### List taken from https://discuss.codechef.com/questions/48877/data-structures-and-algorithms, algorithms implemented from self-learning from books and resources on the Internet
 
+I have no recollection of how, but I ended up with a couple of pages of algorithms that programmers should know. I kept procrastinating about reading them up, but finally decided that I'll start implementing them myself. So here goes nothing, I hope to learn at least one or more a day (depending on whether I've done it before or not) over the next couple of months.  
+
 [Binary Search](https://github.com/SriramKeerthi/learningAlgos/blob/master/binarySearch.py)
 
 [Quicksort](https://github.com/SriramKeerthi/learningAlgos/blob/master/quickSort.py)
