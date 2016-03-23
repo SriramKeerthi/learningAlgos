@@ -14,8 +14,7 @@ def _binarySearch(li, start, stop, v):
         return -1
 
 def main():
-    li = [8,6,7,4,5,3]
-    li.sort()
+    li = list(range(0,20))
     print(li)
     for v in li:
         print(binarySearch(li, v))
