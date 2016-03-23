@@ -1,11 +1,11 @@
 # THINGS TO LEARN!
-### List taken from https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
+#### List taken from https://discuss.codechef.com/questions/48877/data-structures-and-algorithms, algorithms implemented from self-learning from books and resources on the Internet
 
-Binary Search
+[Binary Search](https://github.com/SriramKeerthi/learningAlgos/blob/master/binarySearch.py)
 
-Quicksort
+[Quicksort](https://github.com/SriramKeerthi/learningAlgos/blob/master/quickSort.py)
 
-Merge Sort
+[Merge Sort](https://github.com/SriramKeerthi/learningAlgos/blob/master/mergeSort.py)
 
 Suffix Array
 
