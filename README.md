@@ -11,7 +11,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 4. [Suffix Array](https://github.com/SriramKeerthi/learningAlgos/blob/master/suffixArray.py)
 
-5. Knuth-Morris-Pratt Algorithm (KMP) (Work in progress - 2016/03/23)
+5. [Recursion](https://github.com/SriramKeerthi/learningAlgos/blob/master/recursion.py)
+
+6. Knuth-Morris-Pratt Algorithm (KMP) (Work in progress - 2016/03/24)
 
 Rabin-Karp Algorithm
 
@@ -144,8 +146,6 @@ Radix Sort, Bucket Sort
 Johnson's Algorithm
 
 Maximal Matching in a General Graph
-
-Recursion
 
 Inclusion and Exclusion Principle
 
