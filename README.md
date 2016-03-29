@@ -167,4 +167,14 @@ Math for Competitive Programming
 
 Mo's Algorithm
 
+Skip lists
+
+Rope
+
+Bloom Filter
+
+Dancing Links
+
+-------------------
+
 (\* - Redo blindly to test knowledge)
