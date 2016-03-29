@@ -17,9 +17,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 7. [Rabin-Karp Algorithm](https://github.com/SriramKeerthi/learningAlgos/blob/master/rabinKarp.py)
 
-8. Tries (Work in progress - 2016/03/29)
+8. [Tries](https://github.com/SriramKeerthi/learningAlgos/blob/master/trie.py)
 
-Depth First Traversal of a graph
+9. Depth First Traversal of a graph (Work in progress - 2016/03/29)
 
 Breadth First Traversal of a graph
 
