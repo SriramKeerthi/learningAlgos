@@ -13,9 +13,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 5. [Recursion](https://github.com/SriramKeerthi/learningAlgos/blob/master/recursion.py)
 
-6. Knuth-Morris-Pratt Algorithm (KMP) (Work in progress - 2016/03/24)
+6. [Knuth-Morris-Pratt Algorithm (KMP)](https://github.com/SriramKeerthi/learningAlgos/blob/master/kmp.py)
 
-Rabin-Karp Algorithm
+7. Rabin-Karp Algorithm (Work in progress - 2016/03/29)
 
 Tries
 
