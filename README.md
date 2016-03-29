@@ -15,9 +15,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 6. [Knuth-Morris-Pratt Algorithm (KMP) *](https://github.com/SriramKeerthi/learningAlgos/blob/master/kmp.py)
 
-7. Rabin-Karp Algorithm (Work in progress - 2016/03/29)
+7. [Rabin-Karp Algorithm](https://github.com/SriramKeerthi/learningAlgos/blob/master/rabinKarp.py)
 
-Tries
+8. Tries (Work in progress - 2016/03/29)
 
 Depth First Traversal of a graph
 
