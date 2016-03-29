@@ -5,15 +5,15 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 1. [Binary Search](https://github.com/SriramKeerthi/learningAlgos/blob/master/binarySearch.py)
 
-2. [Quicksort](https://github.com/SriramKeerthi/learningAlgos/blob/master/quickSort.py)
+2. [Quicksort *](https://github.com/SriramKeerthi/learningAlgos/blob/master/quickSort.py)
 
-3. [Merge Sort](https://github.com/SriramKeerthi/learningAlgos/blob/master/mergeSort.py)
+3. [Merge Sort *](https://github.com/SriramKeerthi/learningAlgos/blob/master/mergeSort.py)
 
-4. [Suffix Array](https://github.com/SriramKeerthi/learningAlgos/blob/master/suffixArray.py)
+4. [Suffix Array *](https://github.com/SriramKeerthi/learningAlgos/blob/master/suffixArray.py)
 
 5. [Recursion](https://github.com/SriramKeerthi/learningAlgos/blob/master/recursion.py)
 
-6. [Knuth-Morris-Pratt Algorithm (KMP)](https://github.com/SriramKeerthi/learningAlgos/blob/master/kmp.py)
+6. [Knuth-Morris-Pratt Algorithm (KMP) *](https://github.com/SriramKeerthi/learningAlgos/blob/master/kmp.py)
 
 7. Rabin-Karp Algorithm (Work in progress - 2016/03/29)
 
@@ -166,3 +166,5 @@ Branch and Bound
 Math for Competitive Programming
 
 Mo's Algorithm
+
+(\* - Redo blindly to test knowledge)
