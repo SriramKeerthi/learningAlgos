@@ -1,7 +1,7 @@
 # THINGS TO LEARN!
 #### List taken from https://discuss.codechef.com/questions/48877/data-structures-and-algorithms and other locations, algorithms implemented from self-learning from books and resources on the Internet
 
-I have no recollection of how, but I ended up with a couple of pages of algorithms that programmers should know. I kept procrastinating about reading them up, but finally decided that I'll start implementing them myself. So here goes nothing, I hope to learn at least one or more a day (depending on whether I've done it before or not) over the next couple of months.  
+I have no recollection of how, but I ended up with a couple of pages of algorithms that programmers should know. I kept procrastinating about reading them up, but finally decided that I'll start implementing them myself. So here goes nothing, I hope to learn at least one or more a day (depending on whether I've done it before or not) over the next couple of months. Some of these I might never do, depending on how useful I think it is.
 
 1. [Binary Search](https://github.com/SriramKeerthi/learningAlgos/blob/master/binarySearch.py)
 
@@ -27,153 +27,153 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 12. Binary Indexed Tree (Work in progress - 2016/03/30)
 
-Segment Tree (with lazy propagation)
+13. Segment Tree (with lazy propagation)
 
-Z algorithm
+14. Z algorithm
 
-Floyd Warshall Algorithm
+15. Floyd Warshall Algorithm
 
-Sparse Table(RMQ)
+16. Sparse Table (RMQ)
 
-Heap / Priority Queue / Heapsort
+17. Heap / Priority Queue / Heapsort
 
-Modular Multiplicative Inverse
+18. Modular Multiplicative Inverse
 
-nCr % M
+19. nCr % M
 
-Suffix Automaton
+20. Suffix Automaton
 
-Lowest Common Ancestor
+21. Lowest Common Ancestor
 
-Counting Inversions
+22. Counting Inversions
 
-Euclid's Extended Algorithm
+23. Euclid's Extended Algorithm
 
-Suffix Tree
+24. Suffix Tree
 
-Dynamic Programming
+25. Dynamic Programming
 
-Basic Data Structures
+26. Basic Data Structures
 
-Logarithmic Exponentiation
+27. Logarithmic Exponentiation
 
-Graphs
+28. Graphs
 
-Minimum Spanning Tree
+29. Minimum Spanning Tree
 
-Efficient Prime Factorization
+30. Efficient Prime Factorization
 
-Combinatorics
+31. Combinatorics
 
-Union Find/Disjoint Set
+32. Union Find/Disjoint Set
 
-Knapsack problem
+33. Knapsack problem
 
-Aho-Corasick String Matching Algorithm
+34. Aho-Corasick String Matching Algorithm
 
-Strongly Connected Components
+35. Strongly Connected Components
 
-Bellman Ford algorithm
+36. Bellman Ford algorithm
 
-Heavy-light Decomposition
+37. Heavy-light Decomposition
 
-Convex Hull
+38. Convex Hull
 
-Line Intersection
+39. Line Intersection
 
-Sieve of Erastothenes
+40. Sieve of Erastothenes
 
-Interval Tree
+41. Interval Tree
 
-Counting Sort
+42. Counting Sort
 
-Probabilities
+43. Probabilities
 
-Matrix Exponentiation
+44. Matrix Exponentiation
 
-Network flow
+45. Network flow
 
-K-d tree
+46. K-d tree
 
-Deque
+47. Deque
 
-Binary Search Tree
+48. Binary Search Tree
 
-Quick Select
+49. Quick Select
 
-Treap/Cartesian Tree
+50. Treap/Cartesian Tree
 
-Game Theory
+51. Game Theory
 
-STL (C++)
+52. STL (C++)
 
-Maximum Bipartite Matching
+53. Maximum Bipartite Matching
 
-Manacher's Algorithm
+54. Manacher's Algorithm
 
-Miller-Rabin Primality Test
+55. Miller-Rabin Primality Test
 
-Stable Marriage Problem
+56. Stable Marriage Problem
 
-Hungarian Algorithm, Tutorial
+57. Hungarian Algorithm, Tutorial
 
-Sweep line Algorithm
+58. Sweep line Algorithm
 
-LCP
+59. LCP
 
-Gaussian Elimination
+60. Gaussian Elimination
 
-Pollard Rho Integer Factorization, problem
+61. Pollard Rho Integer Factorization, problem
 
-Topological Sorting
+62. Topological Sorting
 
-Detecting Cycles in a Graph
+63. Detecting Cycles in a Graph
 
-Geometry
+64. Geometry
 
-Backtracking
+65. Backtracking
 
-Eulerian and Hamiltonian Paths
+66. Eulerian and Hamiltonian Paths
 
-Graph Coloring
+67. Graph Coloring
 
-Meet in the Middle
+68. Meet in the Middle
 
-Arbitrary Precision Integer(BigInt), II
+69. Arbitrary Precision Integer(BigInt), II
 
-Radix Sort, Bucket Sort
+70. Radix Sort, Bucket Sort
 
-Johnson's Algorithm
+71. Johnson's Algorithm
 
-Maximal Matching in a General Graph
+72. Maximal Matching in a General Graph
 
-Inclusion and Exclusion Principle
+73. Inclusion and Exclusion Principle
 
-Co-ordinate Compression
+74. Co-ordinate Compression
 
-Sqrt-Decomposition
+75. Sqrt-Decomposition
 
-Link-Cut Tree
+76. Link-Cut Tree
 
-Euler's Totient Function
+77. Euler's Totient Function
 
-Burnside Lemma
+78. Burnside Lemma
 
-Edit/Levenshtein Distance
+79. Edit/Levenshtein Distance
 
-Branch and Bound
+80. Branch and Bound
 
-Math for Competitive Programming
+81. Math for Competitive Programming
 
-Mo's Algorithm
+82. Mo's Algorithm
 
-Skip lists
+83. Skip lists
 
-Rope
+84. Rope
 
-Bloom Filter
+85. Bloom Filter
 
-Dancing Links
+86. Dancing Links
 
 -------------------
 
