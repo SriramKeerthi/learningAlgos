@@ -13,15 +13,18 @@ class Graph():
             self._graph[v1] = OrderedDict()
         self._graph[v1][v2] = w
 
-    def dfs(self, v):
-        return self._dfs("*", v, OrderedDict())
+    def bfs(self, v):
+        return self._bfs(v, OrderedDict({v: "* -> " + v}))
 
-    def _dfs(self, pv, v, visited):
-        visited[v] = pv + " -> " + v
+    def _bfs(self, v, visited):
         if v in self._graph:
+            toVisit = set()
             for w in self._graph[v]:
                 if w not in visited:
-                    self._dfs(v, w, visited)
+                    visited[w] = v + " -> " + w
+                    toVisit.add(w)
+            for w in toVisit:
+                self._bfs(w, visited)
         return visited
 
 def main():
@@ -36,7 +39,7 @@ def main():
             g.addEdge(v1, v2)
     print(g)
     for v in vertices:
-        print("Vertex: {}, Visited: {}".format(v,g.dfs(v)))
+        print("Vertex: {}, Visited: {}".format(v,g.bfs(v)))
 
 if __name__ == "__main__":
     main()

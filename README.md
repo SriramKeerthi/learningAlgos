@@ -21,9 +21,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 9. [Depth First Traversal of a graph](https://github.com/SriramKeerthi/learningAlgos/blob/master/dfs.py)
 
-10. Breadth First Traversal of a graph (Work in progress - 2016/03/30)
+10. [Breadth First Traversal of a graph](https://github.com/SriramKeerthi/learningAlgos/blob/master/bfs.py)
 
-Dijkstra's Algorithm
+11. Dijkstra's Algorithm (Work in progress - 2016/03/30)
 
 Binary Indexed Tree
 
