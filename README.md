@@ -23,9 +23,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 10. [Breadth First Traversal of a graph](https://github.com/SriramKeerthi/learningAlgos/blob/master/bfs.py)
 
-11. Dijkstra's Algorithm (Work in progress - 2016/03/30)
+11. [Dijkstra's Algorithm](https://github.com/SriramKeerthi/learningAlgos/blob/master/dijkstra.py)
 
-Binary Indexed Tree
+12. Binary Indexed Tree (Work in progress - 2016/03/30)
 
 Segment Tree (with lazy propagation)
 
