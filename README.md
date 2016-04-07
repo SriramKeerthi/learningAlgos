@@ -25,9 +25,9 @@ I have no recollection of how, but I ended up with a couple of pages of algorith
 
 11. [Dijkstra's Algorithm](https://github.com/SriramKeerthi/learningAlgos/blob/master/dijkstra.py)
 
-12. Binary Indexed Tree (Work in progress - 2016/03/30)
+12. [Binary Indexed Tree](https://github.com/SriramKeerthi/learningAlgos/blob/master/fenwickTree.py)
 
-13. Segment Tree (with lazy propagation)
+13. Segment Tree (with lazy propagation) (Work in progress - 2016/04/07)
 
 14. Z algorithm
 
